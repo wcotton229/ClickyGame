@@ -13,10 +13,10 @@ This is an Archer themed clicky game built with React
 * GitHub Pages - Depolyment
 * NPM - Packages of reuseable code
 
-## Author
+## Authors
 
-* William Cotton  - wcotton229
+* **William Cotton** - *[wcotton229](https://github.com/wcotton229)*
 
 ## License
 
-This activity is licensed under the MIT License - see the [LICENSE](https://opensource.org/osd) file for more details
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/osd) file for details
